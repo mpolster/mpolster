@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mpolster
-- 👀 I’m interested in Computer Science (Graph Theory, Logic), Linguistics (Syntax, Semantics), Music Theory
-- 🌱 I’m currently learning Haskell.
+- 👀 I’m interested in Computer Science, Linguistics (Syntax, Semantics) and Music Theory
+- 👨‍🔬 I'm working on my BSc. thesis.
+- 🌱 I’m currently learning Haskell and Rust.
 - 📫 How to reach me: Good luck ;)
 
 <!---
